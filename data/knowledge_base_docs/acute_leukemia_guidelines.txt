@@ -1,0 +1,22 @@
+Title: Diagnostic Guidelines for Acute Leukemia in Children
+
+Acute leukemia is characterized by the rapid proliferation of immature blood cells. The two main types are Acute Lymphoblastic Leukemia (ALL) and Acute Myeloid Leukemia (AML).
+
+Diagnosis Criteria for ALL:
+- Complete Blood Count (CBC) often shows anemia, thrombocytopenia, and leukocytosis or leukopenia.
+- Peripheral blood smear may reveal blasts.
+- Bone marrow examination is mandatory; diagnosis is confirmed when blast percentage is >25%.
+- Immunophenotyping is used to confirm lineage (e.g., B-cell, T-cell).
+- Cytogenetic analysis helps identify prognostic markers such as t(12;21), t(9;22), and hyperdiploidy.
+
+Clinical Features:
+- Fever, fatigue, pallor, bruising, lymphadenopathy, hepatosplenomegaly.
+- Central nervous system involvement can cause headaches, vomiting, and cranial nerve palsies.
+
+Initial Work-up:
+- Bone marrow aspiration and biopsy
+- Lumbar puncture to assess CNS involvement
+- Coagulation profile, liver and renal function tests
+- Genetic tests for chromosomal abnormalities and gene fusions (e.g., ETV6-RUNX1, BCR-ABL1)
+
+Early identification of subtype and risk stratification is essential for effective treatment planning.

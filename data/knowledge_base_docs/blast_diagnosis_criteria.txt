@@ -1,0 +1,26 @@
+Title: Morphological and Imaging Criteria for Blast Identification in Peripheral Blood Smear
+
+Blast cells are immature precursors typically found in the bone marrow but appear in peripheral blood in leukemia.
+
+Morphological Features of Blasts:
+- Large nucleus-to-cytoplasm ratio
+- Fine chromatin pattern
+- Presence of nucleoli (usually 1–3 prominent)
+- Scant agranular cytoplasm
+- Absence of specific granules or Auer rods (in ALL)
+
+Types of Blasts:
+- Lymphoblasts (ALL): round nucleus, condensed chromatin, indistinct nucleoli
+- Myeloblasts (AML): open chromatin, prominent nucleoli, more cytoplasm, can contain Auer rods
+
+When to Suspect Leukemia from a Blood Smear:
+- Blast cells seen in >5% of white blood cells
+- Accompanied by pancytopenia or bicytopenia
+- Symptoms: fever, fatigue, bruising, infections
+
+Diagnostic Confirmation:
+- Flow cytometry to classify the blasts
+- Bone marrow biopsy to quantify and confirm lineage
+- Genetic markers such as t(8;21), t(15;17), or MLL rearrangements
+
+AI imaging models may assist in the identification of blast-like cells in digital smear images, but clinical confirmation is required.

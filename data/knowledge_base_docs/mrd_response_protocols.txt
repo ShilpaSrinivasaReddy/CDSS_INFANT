@@ -1,0 +1,23 @@
+Title: Minimal Residual Disease (MRD) Protocols and Response-Based Risk Stratification
+
+Minimal Residual Disease (MRD) is a key prognostic factor in pediatric leukemia and guides therapeutic decisions.
+
+Standard MRD Time Points:
+- Day 15 (Early Response)
+- Day 29 or 33 (End of Induction)
+- Week 12 (Consolidation Phase)
+
+Interpretation of MRD Levels (by flow cytometry or PCR):
+- MRD < 0.01% = Good response
+- MRD 0.01–0.1% = Intermediate
+- MRD > 0.1% = Poor response, consider intensification
+
+Day 29 MRD Implications:
+- If MRD > 0.01% on Day 29: shift patient to High-Risk arm of treatment protocol.
+- MRD > 1% indicates extremely poor prognosis — refer for transplant evaluation.
+
+Therapy Adjustment Based on MRD:
+- Good responders may reduce chemotherapy intensity
+- Poor responders require intensification or addition of targeted therapies such as blinatumomab or CAR-T cell therapy
+
+The MRD assessment must always be interpreted in the context of other genetic and clinical risk factors.
