@@ -28,11 +28,11 @@ question = st.text_input("📋 Enter your clinical question:")
 # Step 2: Upload a blood smear image (optional)
 uploaded_image = st.file_uploader("📤 Upload a Peripheral Blood Smear Image (optional)", type=["png", "jpg", "jpeg"])
 
-# Step 3: Display the image in reduced size
-if uploaded_image:
-    image = Image.open(uploaded_image)
-    resized_image = image.resize((350, 350))
-    st.image(resized_image, caption="Peripheral Blood Smear", use_column_width=False)
+# # Step 3: Display the image in reduced size
+# if uploaded_image:
+#     image = Image.open(uploaded_image)
+#     resized_image = image.resize((350, 350))
+#     st.image(resized_image, caption="Peripheral Blood Smear", use_container_width=False)
 
 # Step 4: Simulated patient selection
 patient_id = st.selectbox("🩺 Select Patient ID", options=["P001", "P002"])
